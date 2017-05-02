@@ -72,8 +72,8 @@ ___Artifact centric process modeling___ contains artifact types consisting of an
 |drawback|data is mostly hidden|no regard for activities that do not work with data|
 
 ## Research
-Integration of existing processes and data models
-Modeling requirements for data
-Mapping database content to process-relevant data
+Integration of existing processes and data models  
+Modeling requirements for data  
+Mapping database content to process-relevant data  
 
 
