@@ -64,4 +64,24 @@ in the Application Explorer,, select class in application scoping control
 Right Click -> Inheritance
 
 ## Assessing Guardrail Compliance
-(Integrated monitoring of application configurations, similar to Sonar)
+(Integrated monitoring of application configurations and rules, similar to Sonar)
+Overview of compliance with standards and best practices by __compliance score__
+
+Open: Designer Studio > Application > Guardrails  
+Thresholds: score > 90: good,  
+score >= 80: needs review,  
+score < 80: needs immediate review
+
+__Warning Summary__ tab provides overview of rule warnings per rule type
+
+__Compliance Details__ tab provides analysis of risk areas:
+- Warning impact: rules with severe/moderate warnings
+- Warning age
+- Operator/Developer that caused the warning
+
+### Addressing violations
+__resolve__: eliminate cause of violation (e.g. disable draft mode)
+
+__justify__: when requirement/design approach leads to warning (e.g. justify activity rule for database access)  
+review/edit -> Add justification -> enter text
+-> OK
