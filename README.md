@@ -9,9 +9,13 @@
 
 [6 - Application Design](mp-w1/notes/mp-w1/notes/Pega%206%20-%20Pega%20Application%20Design.md)
 
-[7 - Cases and Child Cases](mp-w1/notes/mp-w1/notes/Pega%207%20-%20Cases%20and%20Child%20Cases.md)
+[7 - Case Design](mp-w1/notes/mp-w1/notes/Pega%207%20-%20Cases%20and%20Child%20Cases.md)
 
 [8 - Data Model Design](mp-w1/notes/mp-w1/notes/Pega%208%20-%20Data%20Model%20Design.md)
 
+[9 - Process Design](mp-w1/notes/mp-w1/notes/Pega%209%20-%20Process%20Design.md)
+
 ## Trends in BPM Research
 [1 - Processes and Data](bpm-trends/notes/1%20-%20Processes%20and%20Data.md)
+
+[2 - Batch Processing in Business Processes](bpm-trends/notes/2%20-%20Batch%20Processing%20in%20Business%20Processes.md)
